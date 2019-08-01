@@ -9,7 +9,7 @@ By using nodejs and express framework:
 
 /customer?id-value - api to fetch specific customer detail from datastore
 
-/customer - api to create new customer detail into datastore
+/addCustomer - api to create new customer detail into datastore
 
 
 Local Usage: Prerequisite: Node modules should be installed on local machine
