@@ -36,7 +36,7 @@ $gcloud app deploy(google sdk)
 
 $gcloud app browse
 
-Application "Hello World" Endpoint: https://skilled-curve-247615.appspot.com/
+Application "Oh Hi There!" Endpoint: https://skilled-curve-247615.appspot.com/
 
 API endpoints:
 
@@ -50,6 +50,6 @@ Customer with id: https://skilled-curve-247615.appspot.com/customer?id=110
 
 To Add New Customer into Datastore using Postman:
 
-/customer endpoint: https://skilled-curve-247615.appspot.com/customer
+/addCustomer endpoint: https://skilled-curve-247615.appspot.com/addCustomer
 
 Sample input for add new customer {	"customerId":"107",	"name":"Bob",	"email":"bob@bcci.com",	"phoneNumber":"+900219087" }
